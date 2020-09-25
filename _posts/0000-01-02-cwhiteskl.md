@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+POV: Codemonke
 Use the left arrow to go back!
